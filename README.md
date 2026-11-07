@@ -1,10 +1,5 @@
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <div style="margin-bottom: 20px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hcavarsan&show_icons=true&theme=transparent" />
-  </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hcavarsan/github-stats-transparent/output/generated/overview.svg" />
   <br />
-  <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcavarsan&hide=html&show_icons=true&theme=transparent" />
-  </div>
-</div>
-
+  <img src="https://raw.githubusercontent.com/hcavarsan/github-stats-transparent/output/generated/languages.svg" />
+</p>
